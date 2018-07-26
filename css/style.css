@@ -1,0 +1,133 @@
+body {margin: 60px; Padding:0; background-color: #FFF;}
+
+header{background-color:#fff;
+  width:100%;
+  float:left;
+  padding: 0px;
+  padding-bottom: 11px;
+}
+
+header img {
+  margin: 0 auto;
+  display: block;
+  padding: 30px;
+  width: 17%;
+}
+
+h1{
+  text-align: center;
+  font-family: helvetica;}
+
+
+.design h3 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  color:#fff;
+}
+
+
+
+
+
+footer{
+  padding:20px;
+  width:100%;
+  float:left;
+  margin-top: 30px;
+  background-color: #000;
+  color: #fff;
+}
+
+
+#container{
+  width: 800px;
+  margin: 0 auto;
+  overflow:hidden
+}
+
+
+li{
+  list-style-type:none;
+  float:left; width:80px:
+  margin-bottom: 20px;
+  background-color:black;
+  margin-right: 36px;
+}
+
+nav{
+  margin-bottom: 80px;
+  padding-left:131px;
+  width:100%;
+  padding-bottom: 30px;
+  border-bottom: solid 6px #000;
+  float:left;
+
+}
+
+nav ul {
+  text-align:center;
+}
+
+nav li a{
+  list-style-type: none;
+  float:left;
+  width: 95px;
+  text-decoration: none;
+  color:#fff;
+  padding-bottom:6px;
+  padding-top: 6px;
+  padding-right: 14px;
+  padding-left: 19px;}
+
+
+
+
+
+.design{
+  width: 213px;
+  float: left;
+  background-color: #1d1e22;
+  border: 2px solid #444;
+  overflow: hidden;
+  margin-bottom: 46px;
+  margin-left: 23px;
+  margin-right: 23px;
+}
+
+
+
+.image-container {
+  width: 100%;
+  height: 213px;
+}
+
+.selfportrait img{
+  width: 45%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+
+.bio{
+  padding-left: 410px;
+}
+
+
+.image-container img{
+  width:100%;
+
+}
+
+.fullproject {
+  width: 100%;
+  float: left;
+}
+
+.fullimage img{
+  width: 100%;
+}
+
+.Contact{
+    text-align: center;
+}
